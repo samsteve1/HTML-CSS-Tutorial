@@ -1,0 +1,29 @@
+input[type='text'], input[type='email'], input[type='password'], input[type='number'], select, input[type='file']{
+	width: 500px;
+	height: 30px;
+	border: none;
+	border-bottom: 3px solid maroon;
+	color: maroon;
+	font-size: 25px;
+	font-style: italic;
+}
+input[type='radio'], input[type='checkbox']{
+	width: 20px;
+	height: 20px;
+	background-color: #aa0000;
+}
+textarea{
+	border: none;
+	border-left: 3px solid maroon;
+	font-size: 25px;
+	font-style: italic;
+}
+input[type='submit'], input[type='reset']{
+	cursor: pointer;
+	background-color: green;
+	border-radius: 0px 35px 0px 25px;
+	color: white;
+	font-weight: bold;
+	height: 50px;
+	width: 100px;
+}

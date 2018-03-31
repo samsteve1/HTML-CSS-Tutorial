@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>JS Welcome</title>
+
+  </head>
+  <body>
+    <h2 id="steve">Hello</h2>
+  <p id="info"></p>
+
+    <button type="button" onmouseover="calSum()"> Sum.</button>
+    <button type="button"onmouseover="calMul()">Multiply</button>
+<script type="text/javascript">
+  num1 = 4;
+  num2 = 12;
+function calMul(){
+  ans = num2 * num1;
+  document.getElementById('info').innerHTML = "The ans is : " + ans;
+}
+  function calSum(){
+  ans = num1 + num2;
+  document.getElementById('info').innerHTML = "The sum is : " + ans;
+  }
+
+
+</script>
+  </body>
+</html>

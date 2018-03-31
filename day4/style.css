@@ -1,0 +1,27 @@
+h1, p, span{
+	color: #0f0;
+	text-decoration: underline;
+	font-size: 40px;
+} 
+
+body{
+	background-color: #aa3322;
+}
+body{
+	background-image: url("ruthbb.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 90%;
+
+}
+
+div{
+	border: 20px inset pink;
+	width:350px;
+}
+
+p{
+	text-indent: 50px;
+	word-spacing: 50px;
+	line-height: 100px;
+}

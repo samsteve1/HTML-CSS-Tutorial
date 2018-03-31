@@ -1,0 +1,48 @@
+.header{
+	width: 850px;
+	height: 100px;
+}
+.nav{
+	width: 850px;
+	height: 50px;
+}
+.main{
+	width: 850px;
+	height: 500px;
+}
+.footer{
+	width: 850px;
+	height: 50px;
+}
+.header, .nav, .main, .footer{
+	border: 1px solid black;
+	margin: 0 auto;
+}
+.logo{
+	width: 30%;
+	height: 100%;
+	border: 1px solid black;
+}
+.sidebar{
+	width: 250px;
+	float: left;
+	height: 500px;
+	border: 1px solid black;
+}
+.sub_main{
+	width: 598px;
+	float: left;
+	border: 1 px solid black;
+	height: 500px;
+}
+.ade{
+	width: 598px;
+	height: 198px;
+	border: 1px solid black;
+}
+.david{
+	width: 598px;
+	height: 298px;
+	border: 1px solid black;
+
+}

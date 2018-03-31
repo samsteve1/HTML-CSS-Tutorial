@@ -1,0 +1,85 @@
+.header{
+	width: 800px;
+	height: 100px;
+	background-color: purple;
+	color: white;
+	text-align: center;
+}
+
+.logo{
+	width: 200px;
+	height: 100px;
+	float: left;
+}
+.headertext{
+	width: 600px;
+	height: 100px;
+	float: right;
+}
+
+.searchform{
+	width: 600px;
+	height: 20px;
+}
+
+.newtext{
+	width: 600px;
+	height: 80px;
+}
+
+.logoimg{
+	width: 200px;
+	height: 100px;
+}
+
+.navbar{
+	width: 800px;
+	height: 50px;
+	background-color: pink;
+}
+
+.mainbody{
+	width: 800px;
+	height: 500px;
+	background-color: orange;
+}
+
+.col1{
+	width: 200px;
+	height: 500px;
+	background-color: orange;
+	float: left;
+}
+
+.col2{
+	width: 400px;
+	height: 500px;
+	background-color: blue;
+	float: left;
+}
+
+.col3{
+	width: 200px;
+	height: 500px;
+	background-color: orange;
+	float: left;
+}
+
+
+.footer{
+	width: 800px;
+	height: 50px;
+	background-color: purple;
+	color: white;
+	text-align: center;
+}
+
+#footertext{
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+span{
+	margin-right: 20px;
+}
+
